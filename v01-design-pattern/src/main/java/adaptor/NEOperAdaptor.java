@@ -1,7 +1,6 @@
 package adaptor;
 
-import ne.adaptor.*;
-import ne.adaptor.*;
+import adaptor.ne.*;
 
 public class NEOperAdaptor extends NECommunicate implements INEOperator
 {
